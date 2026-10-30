@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://knocks50caimans.github.io/sz-f17/sitemap.xml
